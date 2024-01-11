@@ -1,0 +1,12 @@
+.slider-sec{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.img-box{
+    margin: 0 10px;
+    width: 400px;
+}
+#img{
+    width: 100%;
+}
